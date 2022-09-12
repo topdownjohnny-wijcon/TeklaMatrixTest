@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net472</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Tekla.Structures" Version="2021.0.0" />
+        <PackageReference Include="Tekla.Structures.Model" Version="2021.0.0" />
+        <PackageReference Include="Tekla.Structures.Catalogs" Version="2021.0.0" />
+        <PackageReference Include="Tekla.Structures.Drawing" Version="2021.0.0" />
+        <PackageReference Include="Tekla.Structures.Analysis" Version="2021.0.0" />
+    </ItemGroup>
+
+</Project>
